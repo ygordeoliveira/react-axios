@@ -1,3 +1,2 @@
-# quiz-app-react
-# quiz-app-react
 # react-axios
+Projeto desenvolvido durante o curso de React do Jornada do Dev.
